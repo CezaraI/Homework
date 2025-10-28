@@ -48,8 +48,8 @@ For the fourth experiment I did the following things:
 3.Left the same optimizer.
 (Same configuration as experiment three BUT different data augmentation)
 
-Best score for the fourth experiment: 
-Running time for the training loop: 
+Best score for the fourth experiment:0.660 
+Running time for the training loop: 13min 20 sec
 Notebook version: “exp4v2” https://www.kaggle.com/code/theca3sar/homework-2/notebook?scriptVersionId=271446580
 
 
